@@ -1,0 +1,14 @@
+aiohttp==3.11.12
+fastapi==0.115.8
+ffmpeg-python==0.2.0
+linuxpy==0.21.0
+numpy==2.2.2
+objgraph==3.6.2
+opencv-python==4.11.0.86
+paho-mqtt==2.1.0
+pillow==11.1.0
+python-multipart==0.0.20
+redis==5.2.1
+requests==2.32.3
+uvicorn==0.34.0
+torch==2.4.1
