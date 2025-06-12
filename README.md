@@ -1,4 +1,4 @@
-# README
+# RKYOLO Edge
 
 这是一个在 rk3588 上运行 yolo 检测的项目，支持 yolov5，yolov8 和 yolov11 的 [检测模型](https://docs.ultralytics.com/zh/tasks/detect/)，兼容海康威视 MVS USB 摄像头和 UVC 协议摄像头。
 
