@@ -85,15 +85,18 @@
 
 如果有技术问题需要讨论交流，又或者需要定制开发与技术支持，欢迎加入以下群：
 
-(亿语智能视觉检测官方群二维码)
-
-<!-- <table>
+<table>
   <tr>
     <td>
-      <img width="200px" src="https://demo.eyuai.com/vd_front/assets/logo1-BWdxyya1.png">
+      <img width="200px" src="./readme/img/ewm.png">
     </td>
   </tr>
-</table> -->
+  <tr align="center">
+    <td>
+      WeaveCheck  项目服务群
+    </td>
+  </tr>
+</table>
 
 ## 友情链接
 
