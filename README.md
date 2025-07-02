@@ -15,7 +15,6 @@
 - ✅ 多摄像头兼容设计
 - ✅ 开发友好
 - ✅ 跨平台 PC、手机端、平板
-- ✅ 开源版本支持免费商用
 
 ## 优势
 
@@ -44,6 +43,10 @@
 ## 项目预览
 
 [平台预览](https://demo.eyuai.com/vd_front/login) （有关本项目的使用说明，请参考 [平台使用说明](./readme/readme.md) 。\* 平台演示以布匹检测为例 )
+
+体验账号：test-user@test.com
+
+密码：123456
 
 ### 项目截图
 
@@ -91,6 +94,10 @@
     </td>
   </tr>
 </table> -->
+
+## 友情链接
+
+- [聆雀 Chat AI - 科技向善，让 AI 拥抱大众](https://www.lqai.cn/view/index.html)
 
 ## 安装步骤(板端)
 
